@@ -1,0 +1,153 @@
+{
+  "summary": "",
+  "recent": [
+    {
+      "role": "user",
+      "content": "give this in 3 short points"
+    },
+    {
+      "role": "assistant",
+      "content": "{\n  \"argument\": \"1. Consult a registered medical practitioner to confirm pregnancy and verify it meets the legal criteria under the MTP Act (such as risks to health, pregnancy from rape, fetal abnormalities, and gestation limits). 2. Obtain consent from the woman (and guardian if a minor or mentally ill) and get the abortion procedure done by a licensed medical professional in a registered facility. 3. For abortions beyond 24 weeks due to fetal anomalies, secure approval from the State Level Medical Board as per the 2021 amendment to the MTP Act.\",\n  \"conclusion\": \"File for abortion by consulting a registered doctor who confirms eligibility within legal limits, obtaining necessary consent, and conducting the procedure in a licensed clinic; for late abortions beyond 24 weeks, get State Medical Board approval.\"\n}"
+    },
+    {
+      "role": "user",
+      "content": "when was vape banned in india."
+    },
+    {
+      "role": "assistant",
+      "content": "{\n  \"argument\": \"The retrieved evidence refers to the Indian Council of Medical Research (ICMR) White Paper dated 29th May 2019 and the e-cigarette Prohibition Act as referenced in discussions up to April 2025. The mention of the 'e-cigarette Prohibition Act' alongside documents dated May 2019 indicates that the ban on vape/e-cigarettes in India was established around that time, specifically in or around May 2019.\",\n  \"conclusion\": \"Vape (e-cigarettes) was banned in India in May 2019 based on the e-cigarette Prohibition Act and ICMR White Paper dated May 2019.\"\n}"
+    },
+    {
+      "role": "user",
+      "content": "what is the e-cigarette Prohibition act."
+    },
+    {
+      "role": "assistant",
+      "content": "{\n  \"argument\": \"The e-cigarette Prohibition Act refers to the legislation enacted around May 2019 that bans the production, manufacture, import, export, transport, sale, distribution, storage, and advertisement of e-cigarettes (vapes) in India. This ban was instituted following the Indian Council of Medical Research's (ICMR) White Paper dated 29th May, 2019, which addressed the health concerns associated with electronic nicotine delivery systems. The Act is referenced in various legal documents concerning the prohibition of e-cigarettes in India. Although the specific text of the Act is not provided in the retrieved evidence, it clearly established the legal framework for prohibition of e-cigarettes starting May 2019.\",\n  \"conclusion\": \"The e-cigarette Prohibition Act is the Indian law enacted around May 2019 that bans the manufacturing, sale, and use of e-cigarettes (vapes) in India following health concerns raised by the ICMR, thus legally prohibiting e-cigarettes nationwide.\"\n}"
+    },
+    {
+      "role": "user",
+      "content": "what is the consequence of owning a vape?"
+    },
+    {
+      "role": "assistant",
+      "content": "{\n  \"argument\": \"The e-cigarette Prohibition Act enacted around May 2019 bans the production, manufacture, import, export, transport, sale, distribution, storage, and advertisement of e-cigarettes (vapes) in India. Owning a vape device falls under this prohibition as it relates to possession of e-cigarettes, which are illegal under the Act. Although the retrieved evidence does not specify exact penalties, owning a vape likely subjects the person to legal consequences under this ban, including possible confiscation or penalties as per the law prohibiting electronic nicotine delivery systems.\",\n  \"conclusion\": \"Owning a vape in India is illegal under the e-cigarette Prohibition Act effective from May 2019, and it may lead to legal consequences including penalties or confiscation, though specific punishments are not detailed in the retrieved evidence.\"\n}"
+    },
+    {
+      "role": "user",
+      "content": "how can i file to make vape legal in india. give your answer in three points that represent the three main steps i need to take."
+    },
+    {
+      "role": "assistant",
+      "content": "{\n  \"argument\": \"1. File a Public Interest Litigation (PIL) or petition in the appropriate court challenging the e-cigarette Prohibition Act's ban on vapes, arguing on grounds such as violation of rights or lack of sufficient evidence. 2. Support your case with scientific studies, expert opinions, and evidence to demonstrate the safety and benefits of regulated vape usage compared to tobacco products. 3. Advocate for or propose a regulatory framework to the court or relevant authorities that allows controlled manufacture, sale, and use of vapes under safety and age restrictions, aiming to replace the blanket ban with legal regulation.\",\n  \"conclusion\": \"To seek legalization of vapes in India, initiate a legal challenge to the ban via PIL, present strong evidence and expert support, and propose a regulatory framework for controlled and safe vape usage.\"\n}"
+    },
+    {
+      "role": "user",
+      "content": "\\quit"
+    },
+    {
+      "role": "assistant",
+      "content": "{\n  \"argument\": \"You have indicated the command '\\\\quit', which usually signifies ending the conversation or session. If you need any further assistance or clarification before quitting, please let me know.\",\n  \"conclusion\": \"The session will end as per your request '\\\\quit'. Feel free to return anytime for more assistance.\"\n}"
+    }
+  ],
+  "last_evidence": {
+    "query": "vape ban date India",
+    "rewrites_used": [
+      "vape ban date India"
+    ],
+    "tids_considered": [
+      106547680,
+      40596418,
+      17334998,
+      108445044,
+      185947734,
+      143809674,
+      84824754,
+      17377175,
+      67746245,
+      180981793
+    ],
+    "returned": 8,
+    "results": [
+      {
+        "tid": 106547680,
+        "title": "Itc Limited vs The Controller Of Patents on 30 April, 2025",
+        "chunk_id": "106547680:3:be0c67c16c",
+        "score": 0.47573453187942505,
+        "text": "dated 31st May, 2019, the ICMR White Paper dated 29th May, 2019 and the contents therein and the e-cigarette Prohibition Act is completely misplaced and unjustified. 8. Mr. Sai Deepak submits that the respondent has failed to appreciate that the term \"serious prejudice\" in Section 3(b) of the Patents Act, 1970 has to be read together with the rest of the provision which uses the words \"primary or intended use\". In support of his submissions, he has relied upon the judgment in the case of Balsinor Nagrik Co-op. Bank Ltd. Vs. Babubhai S. Pandya reported in AIR 1987 SC 849. 9. Mr. Sai Deepak submits that as per PowerPoint presentation by Shri DPS Parmar, the then Deputy Controller of Patents and Designs available on the website of World Intellectual Property Organization, providing explanation with examples on what constitutes a fit case for attracting Section 3(b) of the Act. He submits that none of the examples 5 provided Section 3(b) exclusion mention tobacco, smoking or nicotine or inventions relating thereto. 10. Mr. Sai Deepak submits that if patentability of an invention is denied merely because its commercial exploitation is prohibited, it would violate of Article 27(2) of the Agreement on Trade Related Aspects of Intellectual Property Rights (TRIPS) and Article 4quarter of Paris Convention for the Protection of Industrial Property (Paris Convention). He submits that the Patent Office is not empowered to decide on policy issues regarding incentivizing/ disincentivizing i",
+        "publishdate": "2025-04-30",
+        "docsource": null
+      },
+      {
+        "tid": 106547680,
+        "title": "Itc Limited vs The Controller Of Patents on 30 April, 2025",
+        "chunk_id": "106547680:2:1104fd1ac0",
+        "score": 0.4696972370147705,
+        "text": " Mr. Sai Deepak submits that the respondent has cited new documents in the impugned order which were not a part of the First Examination Report. He submits that no documents in support of the ground of Section 3(b) were cited in the First Examination Report. The documents in support of objection under Section 3(b) were cited for the very first time in the hearing notice. The document which was cited is an online newspaper article. 6. Mr. Sai Deepak submits that in the impugned order found reference to a White Paper titled \"White paper on Electronic and Nicotine Delivery System\" dated 29th May, 2019 by the Indian Council of Medical Research (hereinafter referred as \"ICMR\") and several statutes and portions from the same were relied upon. He submits that the ICMR White Paper dated 29th May, 2019 was neither cited in the First 4 Examination Report or Hearing Notice nor was served upon the appellant prior to passing of the impugned order. In support of his submissions, he has relied upon the judgment reported in the case of Ssangyong Engineering and Construction Company Limited Vs. National Highways Authority of India (NHAI ) reported in 2019 SCC OnLine SC 677. 7. Mr. Sai Deepak submits that the subject invention is not an electronic cigarette, the reliance on the News Paper Article dated 31st May, 2019, the ICMR White Paper dated 29th May, 2019 and the contents therein and the e-cigarette Prohibition Act is completely misplaced and unjustified. 8. Mr. Sai Deepak submits that the",
+        "publishdate": "2025-04-30",
+        "docsource": null
+      },
+      {
+        "tid": 106547680,
+        "title": "Itc Limited vs The Controller Of Patents on 30 April, 2025",
+        "chunk_id": "106547680:0:5713f95a66",
+        "score": 0.4318237602710724,
+        "text": "Itc Limited vs The Controller Of Patents on 30 April, 2025 IN THE HIGH COURT AT CALCUTTA ORIGINAL SIDE COMMERCIAL DIVISION Present: The Hon'ble Justice Krishna Rao IPDPTA No. 121 of 2023 ITC Limited Versus The Controller of Patents, Designs & Trademark Mr. J. Sai Deepak, Sr. Adv. Mr. Paritosh Sinha Mr. Manosij Mukherjee Mr. Samik Chakraborty Ms. Mitul Dasgupta Ms. Amrita Majumdar Mr. K. K. Pandey Mr. Gyan Prakash Mr. T. Das Ms. Mallika Bothra Ms. Pooja Sett ... For the appellant. Mr. Amit Chakraborty Ms. Sanjukta Gupta ... For the respondent. 2 Hearing Concluded On : 08.04.2025 Judgment on : 30.04.2025 Krishna Rao, J.: 1. This is an appeal under Section 117A of the Patents Act, 1970 against the order passed by the Controller of Patents and Designs, Kolkata, dated 26th June, 2023 under Section 15 of the Patents Act, 1970 wherein the application filed by the appellant being Indian Patent Application No. 685/KOL/2015 dated 10th June, 2015 was rejected. 2. The application filed by the appellant before the Controller is for invention titled \"A Device and method for generating and delivery of a Nicotine Aerosol to a user\". 3. Mr. J. Sai Deepak, Learned Senior Advocate representing the appellant submits that the device does not have any electrical/electronic components or like arrangement. The device consists of a tube enclosing at least two components. One of the components holds at least one aerosol generating substance i.e. nicotine/alkaloids and another component holds at least ",
+        "publishdate": "2025-04-30",
+        "docsource": null
+      },
+      {
+        "tid": 185947734,
+        "title": "Ramesh Mamillapalli vs The Union Of India on 29 July, 2024",
+        "chunk_id": "185947734:0:19704141fc",
+        "score": 0.3304397761821747,
+        "text": "Ramesh Mamillapalli vs The Union Of India on 29 July, 2024 IN THE HIGH COURT OF ANDHRA PRADESH AT AMARAVATI (SPECIAL ORIGINAL JURISDICTION) MONDAY, THE TWEENTY NINTH DAY OF JULY, TWO THOUSAND AND TWENTY FOUR -PRESENT: THE HONOURABLE SRI JUSTICE G.NARENDAR \"AND THE HONOURABLE SMT JUSTICE KIRANMAYEE MANDAVA WRIT PETITION Nos, (4681, 14878, 14852, 28520, 29768, g99G0, 34648, 317G2, S1BOS, S2OSS, BIOTA, BRITT, BAIS, SRIBS, $29S4, 829GG, 32968, 32486, 32489, 22740, 22047, 39088, 39219, 33229, 33292, 39647 of 2023 and 680, 4285, 4292, 4296, 4940, 4901, 4991, 5452, 6804, 6424, 7394, TES4, 7695, 7704, TPOG, S129, S134, S1G4, SISG, SISG, BAP4, 82H1, B22, 8283, 8294, 8295, S297, BIP2, 8527, 9295, HS17, QGS7, 9715, 97 RWG, 10272, 12924, 12426, 12452, 12870, 13428, 13605, 19624, 13629, 19634, 139748, 13862, 13893, 19924, 18925, 8649, 9006, 9083, 9128, S476, O72, OTa4, OTST, S801, 98S, 9805, GSOG, 9944, 10949, 10381, 1OIGT, 10542, 10579, 10634, (0635, 10636, 10654, 10781, 1OBOT, 11405, 11212, 14244, 11241, 11284, 44258, 11944, 11982, 17994, 11982, 11882, 14168, 11404, 11784, 12989, 43048, 13177, 18284, (8924, 12419, 73488, 18460, 14428, 14198, 14140, T1847, 1172S, 11605, 14508, 14615, 14616, 14817, 14623, 14743, 1478S, 14792, 18047, 18298, 18684 OF 2004 WRIT PETITION NO: 14687 OF 2023 Mehwveen: Sint Frameeia Pasumarthi, Wo Mr 8 Narasimha Reo, aged G2 years, Oce: House Wie, 2. No.€-44, Pentalavariqudeam Vilage, Vatsaval Mandal, NTR District ~ S27 408, Andhra Pradesh. Pallioner AND me re SG",
+        "publishdate": "2024-07-29",
+        "docsource": null
+      },
+      {
+        "tid": 143809674,
+        "title": "Ramesh Mamillapalli, vs The Union Of India on 29 July, 2024",
+        "chunk_id": "143809674:0:d94f0169de",
+        "score": 0.3286166787147522,
+        "text": "Ramesh Mamillapalli, vs The Union Of India on 29 July, 2024 IN THE HIGH COURT OF ANDHRA PRADESH AT AMARAVATI (SPECIAL ORIGINAL JURISDICTION) MONDAY, THE TWEENTY NINTH DAY OF JULY, TWO THOUSAND AND TWENTY FOUR -PRESENT: THE HONOURABLE SRI JUSTICE G.NARENDAR \"AND THE HONOURABLE SMT JUSTICE KIRANMAYEE MANDAVA WRIT PETITION Nos, (4681, 14878, 14852, 28520, 29768, g99G0, 34648, 317G2, S1BOS, S2OSS, BIOTA, BRITT, BAIS, SRIBS, $29S4, 829GG, 32968, 32486, 32489, 22740, 22047, 39088, 39219, 33229, 33292, 39647 of 2023 and 680, 4285, 4292, 4296, 4940, 4901, 4991, 5452, 6804, 6424, 7394, TES4, 7695, 7704, TPOG, S129, S134, S1G4, SISG, SISG, BAP4, 82H1, B22, 8283, 8294, 8295, S297, BIP2, 8527, 9295, HS17, QGS7, 9715, 97 RWG, 10272, 12924, 12426, 12452, 12870, 13428, 13605, 19624, 13629, 19634, 139748, 13862, 13893, 19924, 18925, 8649, 9006, 9083, 9128, S476, O72, OTa4, OTST, S801, 98S, 9805, GSOG, 9944, 10949, 10381, 1OIGT, 10542, 10579, 10634, (0635, 10636, 10654, 10781, 1OBOT, 11405, 11212, 14244, 11241, 11284, 44258, 11944, 11982, 17994, 11982, 11882, 14168, 11404, 11784, 12989, 43048, 13177, 18284, (8924, 12419, 73488, 18460, 14428, 14198, 14140, T1847, 1172S, 11605, 14508, 14615, 14616, 14817, 14623, 14743, 1478S, 14792, 18047, 18298, 18684 OF 2004 WRIT PETITION NO: 14687 OF 2023 Mehwveen: Sint Frameeia Pasumarthi, Wo Mr 8 Narasimha Reo, aged G2 years, Oce: House Wie, 2. No.€-44, Pentalavariqudeam Vilage, Vatsaval Mandal, NTR District ~ S27 408, Andhra Pradesh. Pallioner AND me re S",
+        "publishdate": "2024-07-29",
+        "docsource": null
+      },
+      {
+        "tid": 84824754,
+        "title": "Vijayalakshmi Movva vs The Income Tax Officer Ward 1 on 29 July, 2024",
+        "chunk_id": "84824754:0:bde61405a4",
+        "score": 0.3192389905452728,
+        "text": "Vijayalakshmi Movva vs The Income Tax Officer Ward 1 on 29 July, 2024 IN THE HIGH COURT OF ANDHRA PRADESH AT AMARAVATI (SPECIAL ORIGINAL JURISDICTION) MONDAY, THE TWEENTY NINTH DAY OF JULY, TWO THOUSAND AND TWENTY FOUR -PRESENT: THE HONOURABLE SRI JUSTICE G.NARENDAR \"AND THE HONOURABLE SMT JUSTICE KIRANMAYEE MANDAVA WRIT PETITION Nos, (4681, 14878, 14852, 28520, 29768, g99G0, 34648, 317G2, S1BOS, S2OSS, BIOTA, BRITT, BAIS, SRIBS, $29S4, 829GG, 32968, 32486, 32489, 22740, 22047, 39088, 39219, 33229, 33292, 39647 of 2023 and 680, 4285, 4292, 4296, 4940, 4901, 4991, 5452, 6804, 6424, 7394, TES4, 7695, 7704, TPOG, S129, S134, S1G4, SISG, SISG, BAP4, 82H1, B22, 8283, 8294, 8295, S297, BIP2, 8527, 9295, HS17, QGS7, 9715, 97 RWG, 10272, 12924, 12426, 12452, 12870, 13428, 13605, 19624, 13629, 19634, 139748, 13862, 13893, 19924, 18925, 8649, 9006, 9083, 9128, S476, O72, OTa4, OTST, S801, 98S, 9805, GSOG, 9944, 10949, 10381, 1OIGT, 10542, 10579, 10634, (0635, 10636, 10654, 10781, 1OBOT, 11405, 11212, 14244, 11241, 11284, 44258, 11944, 11982, 17994, 11982, 11882, 14168, 11404, 11784, 12989, 43048, 13177, 18284, (8924, 12419, 73488, 18460, 14428, 14198, 14140, T1847, 1172S, 11605, 14508, 14615, 14616, 14817, 14623, 14743, 1478S, 14792, 18047, 18298, 18684 OF 2004 WRIT PETITION NO: 14687 OF 2023 Mehwveen: Sint Frameeia Pasumarthi, Wo Mr 8 Narasimha Reo, aged G2 years, Oce: House Wie, 2. No.€-44, Pentalavariqudeam Vilage, Vatsaval Mandal, NTR District ~ S27 408, Andhra Pradesh. Pallioner A",
+        "publishdate": "2024-07-29",
+        "docsource": null
+      },
+      {
+        "tid": 17334998,
+        "title": "Venkat Srinivas Lavu vs The Income Tax Officer on 29 July, 2024",
+        "chunk_id": "17334998:0:46c14cfbef",
+        "score": 0.31662747263908386,
+        "text": "Venkat Srinivas Lavu vs The Income Tax Officer on 29 July, 2024 IN THE HIGH COURT OF ANDHRA PRADESH AT AMARAVATI (SPECIAL ORIGINAL JURISDICTION) MONDAY, THE TWEENTY NINTH DAY OF JULY, TWO THOUSAND AND TWENTY FOUR -PRESENT: THE HONOURABLE SRI JUSTICE G.NARENDAR \"AND THE HONOURABLE SMT JUSTICE KIRANMAYEE MANDAVA WRIT PETITION Nos, (4681, 14878, 14852, 28520, 29768, g99G0, 34648, 317G2, S1BOS, S2OSS, BIOTA, BRITT, BAIS, SRIBS, $29S4, 829GG, 32968, 32486, 32489, 22740, 22047, 39088, 39219, 33229, 33292, 39647 of 2023 and 680, 4285, 4292, 4296, 4940, 4901, 4991, 5452, 6804, 6424, 7394, TES4, 7695, 7704, TPOG, S129, S134, S1G4, SISG, SISG, BAP4, 82H1, B22, 8283, 8294, 8295, S297, BIP2, 8527, 9295, HS17, QGS7, 9715, 97 RWG, 10272, 12924, 12426, 12452, 12870, 13428, 13605, 19624, 13629, 19634, 139748, 13862, 13893, 19924, 18925, 8649, 9006, 9083, 9128, S476, O72, OTa4, OTST, S801, 98S, 9805, GSOG, 9944, 10949, 10381, 1OIGT, 10542, 10579, 10634, (0635, 10636, 10654, 10781, 1OBOT, 11405, 11212, 14244, 11241, 11284, 44258, 11944, 11982, 17994, 11982, 11882, 14168, 11404, 11784, 12989, 43048, 13177, 18284, (8924, 12419, 73488, 18460, 14428, 14198, 14140, T1847, 1172S, 11605, 14508, 14615, 14616, 14817, 14623, 14743, 1478S, 14792, 18047, 18298, 18684 OF 2004 WRIT PETITION NO: 14687 OF 2023 Mehwveen: Sint Frameeia Pasumarthi, Wo Mr 8 Narasimha Reo, aged G2 years, Oce: House Wie, 2. No.€-44, Pentalavariqudeam Vilage, Vatsaval Mandal, NTR District ~ S27 408, Andhra Pradesh. Pallioner AND me ",
+        "publishdate": "2024-07-29",
+        "docsource": null
+      },
+      {
+        "tid": 180981793,
+        "title": "Poola Madhu Babu vs Assessment Unit on 29 July, 2024",
+        "chunk_id": "180981793:5:745eac87f4",
+        "score": 0.3118595778942108,
+        "text": " T8861, dated 91.03.2023, bearing DIN and Notte Na. we og eee assessment Year teed iroome Tar Ac iustice, ° x { OF 2088 % . JANG: shred Recs Se is of th u the f The peliion cami Ac oon Hearing oy am WRIT PETITION NO: 14882 OF 2623 Behyvaan x oy we ma Aparimer ee <a a & x ree mee Bet Com Bu Patitionar AND Op 1. The incorme Tax Cificer, Ward ~ 1, Procddutur, incarie Tax Offea, 34- ofa, Vasanthapel, Procedatur, YSR Redane Olstrict, Andhra Pradesh - 81S 380, =. The Principal Chief Commissioner of Income Tax, Andhra Pradesh and y . Telangana, Hyderabad Rogm Ne.922, 9° Finar, 'A' Block, 1 T Towers, We2-3, AC Guards, Nyderabad - 800 004, Telangana, Respondents Reiiion under Anicie 228 of the Constitution of India is Ned oraying that in the circumstances stated In the affidavit fled therewith, the High Court may be pleased to issue a Wiit of Mandamus or any offer aporopriate Wit, Order or Direction, declaring fa}the order passed uvs 746Ac%) of the incame Tax At, {Qet, dated 30.03. 2023, bearing CIN and Notice No ITBAVAS TIF 48 A/S022-25/105 188768571), by the 1 Respondent, for the assessment Year 2016 - TY. (bp) the notice issued u/s 148 of the Income Tax Act, 1861, dated 30.03.2023, bearing DIN. and Notice No TRAVAST/Q/148 1082-21081 707860), by the 1 Respondent, for the Assessment Year 2078 ~ VF, as arbitrary, Hlegal, bad in law, vold-ab-Iniic, violative of the orncipies of ratural justice apart from being violative of Aricies 14, Ta¢1 Ka) and 256 of the Cansiitution of india and S",
+        "publishdate": "2024-07-29",
+        "docsource": null
+      }
+    ],
+    "notes": [
+      "rewrites=1",
+      "tids=10",
+      "fetched_docs=10",
+      "ingested_chunks=60"
+    ]
+  },
+  "last_evidence_hint": "query='vape ban date India', returned=8, tids=[106547680, 40596418, 17334998, 108445044, 185947734], top_titles=['Itc Limited vs The Controller Of Patents on 30 April, 2025', 'Itc Limited vs The Controller Of Patents on 30 April, 2025', 'Itc Limited vs The Controller Of Patents on 30 April, 2025']"
+}
